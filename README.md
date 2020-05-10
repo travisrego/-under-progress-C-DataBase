@@ -1,2 +1,2 @@
 # C-Calculator
-C-Calculator is another simple calculator made in C#
+C-Calculator is another simple database made in C#
