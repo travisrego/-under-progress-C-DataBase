@@ -1,0 +1,13 @@
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.exe
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.deps.json
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.runtimeconfig.json
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.runtimeconfig.dev.json
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.dll
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\bin\Debug\netcoreapp3.1\Db Console.pdb
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.csprojAssemblyReference.cache
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.csproj.CoreCompileInputs.cache
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.AssemblyInfoInputs.cache
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.AssemblyInfo.cs
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.dll
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.pdb
+C:\Users\Alastair Rego\Documents\Projects\Db Console\Db Console\obj\Debug\netcoreapp3.1\Db Console.genruntimeconfig.cache
